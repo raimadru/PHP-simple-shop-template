@@ -8,3 +8,4 @@ This repository hold code of simple PHP and HTML5 shop template with:
   - Cookies (takes user name; is set for 4 hours).
   
   Built with NetBeans.
+  OS - Ubuntu, Linux.

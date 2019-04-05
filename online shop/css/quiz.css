@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css?family=Quicksand');
+
+
+body {
+    display: flex;
+    font-family: 'Quicksand';
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    margin: 4rem auto;
+}
+
+.questionField {
+    font-size: 2rem;
+}
+
+input[type='submit'] {
+    background-color: #11a084;
+    color: white;
+    border: none;
+    border-radius: 1.2rem;
+    padding: 0.4rem 2.4rem;
+    margin: 2rem 0;
+}
+
+.answers_thankyou {
+    margin: 2rem auto;
+    font-size: 1.8rem;
+    line-height: 1.8rem;
+}
